@@ -23,3 +23,8 @@ This would assume the rx/tx pins are connected between ttyUSB0 and ttyUSB1
 
 sprinter2.log is a sample log file from CAN BUS data capture
 
+
+--------------
+
+AVR_CAN_receive_monitor.ino - Arduino code for capturing CAN BUS data. Tested using an Arduino Pro Mini with a MCP2515 SPI CAN Module. You will need to also install the Seeed Studio can library https://github.com/Seeed-Studio/Seeed_Arduino_CAN
+
